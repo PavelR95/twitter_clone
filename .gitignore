@@ -1,0 +1,12 @@
+# User settings
+/.idea/
+# User file
+/commands.txt
+# Venvs
+/.dev/
+# Cache
+**/__pycache__
+/.mypy_cache/
+/.pytest_cache/
+# Database
+/database/
